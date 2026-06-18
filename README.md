@@ -59,6 +59,7 @@ If you are building with AI agents, coding copilots, or tool-using LLMs, this li
 
 - [hodovani/awesome-mcp-tools](https://github.com/hodovani/awesome-mcp-tools) - early awesome list focused on MCP tools
 - [hackclub/toolsmith](https://github.com/hackclub/toolsmith) - community push around building MCP tools
+- [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) - Hermes Agent plugin for X/Twitter workflows, social monitoring, and controlled posting through Xquik
 
 ## Search Keywords This Repo Targets
 
@@ -81,4 +82,3 @@ This repository is also part of a broader exploration of AI-native developer gro
 If you want more AI workflow collections, tools, and launch ideas, visit **LaerKai**:
 
 - https://laerkai.com
-
