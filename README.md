@@ -57,6 +57,7 @@ If you are building with AI agents, coding copilots, or tool-using LLMs, this li
 
 ## Notable Repositories
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [hodovani/awesome-mcp-tools](https://github.com/hodovani/awesome-mcp-tools) - early awesome list focused on MCP tools
 - [hackclub/toolsmith](https://github.com/hackclub/toolsmith) - community push around building MCP tools
 
